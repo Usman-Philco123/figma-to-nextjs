@@ -7,7 +7,7 @@ export default function Testimonial() {
 
       <div className='md:w-[560px] md:h-[109px] pt-20 sm:w-[361px] sm:h-[120px] sm:justify-center sm:items-center sm:mx-auto md:-ml-0'>
         <h2 className='md:w-[560px] h-[58px] font-bold md:text-5xl sm:text-3xl font-[Roboto] ml-6 sm:text-center '>Customer testimonial</h2>
-        <p className='md:w-[560px] h-[27px] font-[Roboto] ml-6 sm:text-center'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p className='md:w-[560px] h-[27px] font-[Roboto] ml-6 sm:text-center'>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
 
       <div className="container md:w-[1152px] md:h-[417.89px] sm:mt-12">
         
@@ -23,7 +23,7 @@ export default function Testimonial() {
              </div>
 
              <div className="content md:w-[352px] h-[188px] sm:w-[316px] sm:h-[215px] mt-6">
-              <p className='md:w-[352px] md:h-[108px] font-normal text-base font-[Roboto] '>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+              <p className='md:w-[352px] md:h-[108px] font-normal text-base font-[Roboto] '>Lorem ipsum dolor sit amet consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus mi quis viverra ornare.</p>
 
              <div className="detail md:w-[254px] md:h-[56px] sm:mt-5 gap-5 relative flex">
                 <Image className='rounded-full'  width={56} height={56} src='/card3.png' alt='person-img'/>
@@ -45,7 +45,7 @@ export default function Testimonial() {
              </div>
 
              <div className="content w-[352px] h-[188px] mt-6">
-              <p className='md:w-[352px] md:h-[108px] font-normal text-base font-[Roboto] md:mt-4'>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+              <p className='md:w-[352px] md:h-[108px] font-normal text-base font-[Roboto] md:mt-4'>Lorem ipsum dolor sit amet consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus mi quis viverra ornare.</p>
 
              <div className="detail md:w-[254px] md:h-[56px] gap-5 relative flex">
                 <Image className='rounded-full'  width={56} height={56} src='/card1.png' alt='person-img'/>
@@ -67,7 +67,7 @@ export default function Testimonial() {
              </div>
 
              <div className="content w-[352px] h-[188px] mt-6">
-              <p className='md:w-[352px] md:h-[108px] font-normal text-base font-[Roboto] '>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+              <p className='md:w-[352px] md:h-[108px] font-normal text-base font-[Roboto] '>Lorem ipsum dolor sit amet consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus mi quis viverra ornare.</p>
 
              <div className="detail md:w-[254px] md:h-[56px] gap-5 relative flex">
                 <Image className='rounded-full'  width={56} height={56} src='/card6.png' alt='person-img'/>
