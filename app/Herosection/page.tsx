@@ -5,7 +5,7 @@ export default function Herosection() {
     return(
 
         <>
-        <div className="grid md:grid-cols-2 sm:grid-cols-1 relative md:h-[800px] md:w-[1280px] sm:w-[428px] sm:h-[780px] md:pl-12 font-[Roboto] bg-pink-300">
+        <div className="grid md:grid-cols-2 sm:grid-cols-1 relative md:h-[800px] md:w-[1280px] sm:w-[428px] sm:h-[780px] md:pl-12 font-[Roboto]">
            
             <div className="md:pt-60 md:pr-[60px] md:pl-[80px] md:w-[640px] md:h-[300px] sm:w-[428px] sm-h-[390px]">
            
